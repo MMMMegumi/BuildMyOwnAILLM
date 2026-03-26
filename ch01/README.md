@@ -31,3 +31,25 @@ As an optional bonus, the following video tutorial provides an overview of the L
 
 [![Link to the video](https://img.youtube.com/vi/kPGTx4wcm_w/0.jpg)](https://www.youtube.com/watch?v=kPGTx4wcm_w)
 
+第1章：理解大型语言模型
+
+ 
+本章主要代码
+
+本章没有代码。
+
+ 
+补充材料
+
+如何最大化利用本书的建议
+
+在下面的视频中，我分享了自己在电脑上设置 Python 环境的个人方法：
+<br> <br>
+
+https://img.youtube.com/vi/yAcWnfsZhzo/0.jpg
+<br> <br>
+
+作为可选的补充内容，下面的视频教程概述了本书涵盖的 LLM 开发生命周期：
+<br> <br>
+
+https://img.youtube.com/vi/kPGTx4wcm_w/0.jpg
